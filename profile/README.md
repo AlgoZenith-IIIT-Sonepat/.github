@@ -1,44 +1,31 @@
-# Daily Problem Solving - LeetCode Challenges
+# AlgoZenith IIIT Sonepat
 
-Welcome to our Daily Problem Solving repository! Here, we aim to tackle a diverse array of coding challenges sourced from LeetCode on a daily basis. Join us in the journey of continuous learning, improvement, and problem-solving mastery.
+Welcome to the AlgoZenith IIIT Sonepat GitHub repository!
 
-## 🚀 Objective
+## About
+This repository hosts solutions, explanations, and code for the daily coding challenges organized by AlgoZenith at IIIT Sonepat. Join us in our Coding Quest to improve your problem-solving skills and grow your coding prowess.
 
-The primary goal of this repository is to engage and challenge ourselves with daily problem-solving exercises. By participating, you will enhance your problem-solving skills, practice coding, and explore diverse algorithms and data structures.
+## 🧩 Coding Quest Details
+- **Start Date:** November 1, 2023
+- **Challenges:** Daily coding puzzles on LeetCode
+- **Participation:** Open to programmers of all levels
 
-## 📅 How It Works
+## How to Participate
+1. Join the Coding Quest WhatsApp group [here](WhatsAppInviteLink).
+2. Follow AlgoZenith IIIT Sonepat on LinkedIn for updates [here](LinkedInLink).
+3. Daily problem statements will be posted on LeetCode.
 
-- **Daily Challenges**: We'll be sharing a new problem from LeetCode each day.
-- **Solutions**: Feel free to contribute your solutions to the problems in any preferred programming language.
-- **Discussion**: Engage in discussion, collaborate, and share insights on the problem-solving journey.
+## Repository Structure
+- `Challenges/`: Contains folders for each day's problem statement.
+- `Solutions/`: Folder for contributors' solutions to the problems.
+- `Resources/`: Additional helpful resources.
 
-## 🌟 Why Participate
+## Contribution Guidelines
+- Feel free to contribute your solutions or improvements to existing solutions.
+- Follow proper code formatting and include explanations for your code.
 
-- **Continuous Learning**: Daily practice to enhance your problem-solving skills.
-- **Community Engagement**: Connect and learn with other passionate coders.
-- **Personal Growth**: Sharpen your skills and knowledge in algorithms and data structures.
+## Connect With Us
+Stay updated and join the discussion:
+- [LinkedIn](https://www.linkedin.com/company/algozenith-iiit-sonepat/)
+- [WhatsApp Group](https://chat.whatsapp.com/BEJQJXeO8TtLIvwajIVqAs)
 
-## 📁 Repository Structure
-
-- `Month/`: Contains folders for each day's problem statement.
-- `Day/`: Folder for contributors' solutions to the problems.
-
-## 🤝 Contributions
-
-Contributions and participation are highly encouraged! Feel free to submit your solutions, improve existing solutions, or engage in discussions.
-
-## 📌 Let's Connect
-
-Connect with us to stay updated and join the coding discussions:
-
-- **Linkedin**: https://www.linkedin.com/company/algozenith-iiit-sonepat/
-
-- **WhatsApp**: https://chat.whatsapp.com/KEclw1hFKxTDHWPz0MXjON
-
-- **Chapter**: https://algozenith.in/chapters/IIIT-Sonepat-60
-
-## 🌐 About LeetCode
-
-LeetCode is a platform for learning and improving coding skills. Learn more about LeetCode [here](https://leetcode.com/).
-
-Happy Coding! 🌟💻🚀
