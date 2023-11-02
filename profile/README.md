@@ -25,6 +25,9 @@ Contributions and participation are highly encouraged! Feel free to submit your 
 ## 📌 Let's Connect
 Connect with us to stay updated and join the coding discussions:
 
+Linkedin: https://www.linkedin.com/company/algozenith-iiit-sonepat/
+WhatsApp: https://chat.whatsapp.com/KEclw1hFKxTDHWPz0MXjON
+Chapter: https://algozenith.in/chapters/IIIT-Sonepat-60
 
 ## 🌐 About LeetCode
 LeetCode is a platform for learning and improving coding skills. Learn more about LeetCode [here](https://leetcode.com/).
